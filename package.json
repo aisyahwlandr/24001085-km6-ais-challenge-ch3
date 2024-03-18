@@ -1,0 +1,20 @@
+{
+  "name": "24001085-km6-ais-challenge-ch3",
+  "version": "1.0.0",
+  "description": "challenge Chapter 3",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Aisyah Wulandari",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
